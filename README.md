@@ -23,7 +23,7 @@ torchvision 0.13.1
 ```
 ### Data preparation:
 - **Polyp datasets:**
-Download the training 和 testing datasets [Google Drive](https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view?usp=sharing)
+Download the training 和 testing datasets [Google Drive](https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view?usp=sharing).
 
 ### Pretrained model:
 You should download the pretrained PVTv2 model from [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV?usp=sharing).
