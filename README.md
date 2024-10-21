@@ -29,16 +29,7 @@ Download the training 和 testing datasets [Google Drive](https://drive.google.c
 You should download the pretrained PVTv2 model from [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV?usp=sharing).
 
 ## Acknowledgement
-We are very grateful for these excellent works [timm](https://github.com/huggingface/pytorch-image-models), [MERIT](https://github.com/SLDGroup/MERIT), [CASCADE](https://github.com/SLDGroup/CASCADE), [PraNet](https://github.com/DengPingFan/PraNet), [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) and [TransUNet](https://github.com/Beckschen/TransUNet), which have provided the basis for our framework.
+We are very grateful for these excellent works [PraNet](https://github.com/DengPingFan/PraNet), [Polyp-PVT](https://github.com/DengPingFan/Polyp-PVT) 和 [G-CASCADE](https://github.com/SLDGroup/G-CASCADE), which have provided the basis for our framework.
 
-## Citations
-```
-@inproceedings{rahman2024g,
-  title={G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation},
-  author={Rahman, Md Mostafijur and Marculescu, Radu},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  pages={7728--7737},
-  year={2024}
-}
-```
+
 
